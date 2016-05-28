@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>404 - P&aacute;gina n&atilde;o Encontrada - ..:: Symphony Of Thunder Official Website ::..</title>
+<link rel="stylesheet" type="text/css" href="http://www.symphonyofthunder.net/manutencao/style.css" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Author" content="Renan Sarkioja - www.sarkioja.tk" />
+<meta name="Language" content="pt-BR" />
+<meta name="Keywords" content="Symphony of Thunder, Symphony, Thunder, Black, Metal, Christian, Death, Doom, Antestor, Crimson Moonlight, Slechtvalk, Vale, Vale do ribeira, Cajati, São Paulo" />
+<meta name="Description" content="Symphony of Thunder : Site Oficial da banda cristã de metal extremo Symphony of Thunder, do Vale do Ribeira, interior / sul de São Paulo. " />
+
+<!-- nopropaganda.tk -->
+<script type="text/javascript">
+<!--
+if (top.location!=this.location) top.location=this.location; 
+//-->
+</script>
+
+<!-- nopropaganda.tk -->
+
+</head>
+
+<body>
+<div id="content-wrap">
+			<div id="header">
+			<img src="http://www.symphonyofthunder.net/manutencao/imgs/logo.png" alt="Logo Symphony">
+			</div>
+
+<font color="red"><h1>404 - P&aacute;gina n&atilde;o Encontrada</h1></font> 
+
+<p> A P&aacute;gina que voce tentou acessar n&atilde;o existe. <br />
+<!--#echo var="REQUEST_URI" -->
+</p>
+
+<p>Seu IP &eacute;: <!--#echo var="REMOTE_ADDR" -->, <br />e voce est&aacute; usando o <!--#echo var="HTTP_USER_AGENT" --> </p>
+
+
+
+
+			<div id="footer">
+					<p> 
+					<a href="mailto:Symphony of Thunder <info@symphonyofthunder.net>">info@symphonyofthunder.net</a>  					<br />
+					&copy; 2008 Symphony of Thunder<br />
+					</p>		
+			</div>
+
+</div>
+
+</body>
+</html>
+
+

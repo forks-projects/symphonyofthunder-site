@@ -1,0 +1,26 @@
+	  <!-- content-wrap starts here -->
+	  <div id="content-wrap">
+	  
+	  		<div id="main"> 
+		<h1 class="decay">News</h1>
+
+		<p><strong>01.10.07</strong><br />
+		Hail ! <br />
+		Foram adicionados 3 novos alb&uacute;ns na se&ccedil;&atilde;o <strong><a href="../fotos/">Fotos</a></strong>. <br />
+		As fotos s&atilde;o dos ultimos evento que tocamos: CMF em Itaquera (09.06), Crash Inaugural Fest em Registro (28.07) e na Crash Church em Registro (25.08)</p>		
+
+		<p><strong>04.09.07</strong><br />
+		Hail ! <br />
+		Queremos deixar aqui nossos agradecimentos, ao pessoal da Crash Church de Registro (SP), e a galera que compareceu nos ultimos eventos que tocamos: o Inaugural Fest (28.07) e o evento do dia 25.08. <br />
+		Breve vamos estar postando as fotos desses shows aqui no site. <br />
+		Valeu Galera ! <br />
+		</p>
+
+		<p><strong>01.09.07 </strong><br />
+		Sauda&ccedil;&otilde;es galera !! <br />
+		Depois de um longo tempo sem atualiza&ccedil;&otilde;es, inauguramos esta nova vers&atilde;o do site. Atrav&eacute;s daqui, vamos procurar manter voc&ecirc;s sempre bem informados sobre nossos shows e not&iacute;cias.<br />
+		Aproveitem e confiram as fotos, entrem em contato conosco atrav&eacute;s de Mail ou do Guestbook, e de brinde: Baixem o Ep Perseverance, e confiram nosso som, e se preparem, pois as novas musicas est&atilde;ão cada vez mais brutais, e o novo material ser&aacute; devastador, com certeza !! <br />
+		God Bless All !!</p>
+
+					
+	  		</div> 	
