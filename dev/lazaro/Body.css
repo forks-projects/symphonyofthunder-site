@@ -1,0 +1,19 @@
+body { 
+	background-color: #000000;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	margin: 10px;
+}
+
+a:link { color: #FFFFFF; text-decoration: none ;}
+a:visited { color: #FFFFFF; text-decoration: none  }
+a:hover { color: #cc0000; text-decoration: none  }
+
+a img { border: 0; }
+
+#fotos {
+	margin-left:10px;
+	align:left;
+}
+

@@ -1,0 +1,356 @@
+body {
+color : #999999;
+font-size : 9px;
+font-family : verdana;
+text-align : center;
+} 
+
+a:link {
+color : #665d4f;
+text-decoration : none;
+}
+a:visited {
+color : #665d4f;
+text-decoration : none;
+}
+a:hover {
+color : #cccccc;
+text-decoration : none;
+}
+a:active {
+color : #665d4f;
+text-decoration : none;
+}
+h1, h2, h3 {
+color: #CCC;
+	font: normal 19px Impact,sans-serif;
+	padding: 0 0 12px 22px;
+}
+h1 {
+padding-left: 15px;
+padding : 4px 0 3px 10px;
+
+}
+h2 {
+padding-left: 15px;
+
+
+}
+h3 {
+font-size : 1.1em;
+text-transform : uppercase;
+color : #333;
+letter-spacing : 1px;
+}
+h1, h2, h3, p {
+padding : 4px 0 3px 10px;
+margin : 10px 15px;
+}
+
+
+.decay {
+	background: url('../../imgs/decay2.gif') no-repeat left center;
+	background-position: left;
+	color: #000;
+	padding: 4px 0 12px 22px;
+}
+h2.decay {
+	background: url('../../imgs/decay-small.gif') no-repeat left center;
+	background-position: left;
+	padding-top: 6px;
+}
+
+
+#header {
+position : relative;
+top : -10px;
+width : 618px;
+height : 180px;
+margin : 0;
+padding : 0;
+background : #000 url('../imgs/Tops.png');
+border : 1px solid #191612;
+}
+
+img {
+border : 0;
+}
+
+#wrap {
+background: #000 url('../../imgs/body2.gif') no-repeat; 
+background-position: bottom left ;
+margin : 0 auto;
+text-align : left;
+background-color : #000;
+width : 620px;
+border-right : 1px solid #191612;
+border-left : 1px solid #191612;
+}
+
+#wrap #imgleft {
+float : left;
+text-align : left;
+}
+#wrap ul.links {
+list-style : none;
+margin : 10px 15px;
+padding : 0 0 0 10px;
+}
+#wrap ul.links2 {
+list-style : none;
+margin : 10px 15px;
+padding : 0 0 0 10px;
+position : relative;
+top:  -111px;
+left : 120px;
+}
+#wrap p.links2 {
+position : relative;
+top:  -111px;
+left : 120px;
+}
+#wrap ul.links3 {
+list-style : none;
+margin : 10px 15px;
+padding : 0 0 0 10px;
+position : relative;
+top:  -331px;
+left : 240px;
+}
+#wrap p.links3 {
+position : relative;
+top:  -331px;
+left : 240px;
+}
+#wrap .texxt-right {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 332px;
+right: -108px
+float : right;
+text-align : left;
+padding : 0 0 0 17px;
+}
+#wrap .texxt-right2 {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 482px;
+right: -98px
+float : right;
+text-align : left;
+}
+#wrap .texxt-right3 {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 660px;
+right: -88px
+float : right;
+text-align : left;
+}
+#wrap .texxt-right4 {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 855px;
+right: -98px
+float : right;
+text-align : left;
+padding : 0 0 0 17px;
+}
+#wrap .disco-lyrics {
+position : relative;
+top : -60px;
+float : right;
+text-align : right;
+}
+#wrap .disco-lyrics2 {
+position : relative;
+top : -13px;
+float : right;
+text-align : right;
+}
+#wrap .disco-lyrics3 {
+position : relative;
+top : -12px;
+float : right;
+text-align : right;
+}
+#wrap .disco-lyrics4 {
+position : relative;
+top : -24px;
+float : right;
+text-align : right;
+}
+#wrap .downloads-links{
+position : relative;
+top : -76px;
+right : 120px;
+float : right;
+text-align : right;
+}
+#wrap .lineup-right {
+position : relative;
+width : 230px;
+height : 80px;
+top : -176px;
+right: -25px;
+float : right;
+text-align : left;
+}
+#wrap .photos-right {
+position : relative;
+width : 230px;
+height : 80px;
+top : -164px;
+right: -10px;
+float : right;
+text-align : right;
+}
+#wrap .loja-right {
+position : relative;
+width : 255px;
+height : 80px;
+top : -100px;
+right: -20px;
+float : right;
+text-align : left;
+}
+#wrap .loja-right2 {
+position : relative;
+width : 255px;
+height : 80px;
+top : -100px;
+right: -20px;
+float : right;
+text-align : left;
+}
+#content-wrap {
+clear : both;
+padding : 0;
+width : 610px;
+}
+#main {
+float : left;
+width : 409px;
+margin : 0;
+padding : 0;
+background-color : inherit;
+}
+
+#sidebar {
+float : right;
+width : 190px;
+margin : 0 0 150px 0;
+padding : 0;
+background-color : inherit;
+}
+#sidebar ul.sidemenu {
+list-style : none;
+margin : 10px 15px;
+padding : 0 10px 0 20px;
+}
+#sidebar .text-right {
+float : right;
+text-align : right;
+margin-right : auto;
+}
+
+
+
+/*
+#main h1 {
+padding : 4px 0 3px 10px;
+text-transform : none;
+border-bottom : 2px solid #191612;
+}
+#sidebar h2 {
+padding-left: 15px;
+padding : 4px 0 3px 10px;
+border-bottom : 2px solid #191612;
+}
+*/
+
+
+form {
+color : #999999;
+line-height : 14px;
+font-family : verdana;
+width : 238px;
+height : 328px;
+}
+.submit {
+margin-top : 10px;
+font-size : 9px;
+font-family : verdana, sans-serif;
+}
+.forminput, .submit, textarea {
+color : #665d4f;
+background-color : #0f0d0b;
+border : 1px solid #2c2924;
+}
+textarea {
+width : 195px;
+height : 160px;
+}
+input, textarea, .formlabel {
+margin-left : 22px;
+}
+.textinput {
+width : 195px;
+}
+#footer {
+clear : both;
+height : 28px;
+color : #ccc;
+background : #111;
+font-size: 9px;
+}
+#footer a {
+text-decoration : none;
+font-weight : bold;
+color : #fff;
+}
+#footer #footer-left {
+width : 68%;
+float : left;
+text-align : left;
+margin : 0;
+padding : 10px;
+}
+#footer #footer-right {
+width : 25%;
+float : right;
+text-align : right;
+margin : 0;
+padding : 10px;
+}
+
+
+
+body { 
+background:/*#191919*/ #000000 url(../../imgs/background.jpg) top center no-repeat fixed;
+}
+
+
+
+
+#top2 {
+	height:170px;
+	padding-left:30px;
+	}
+
+/* ************************************************************
+*********************  Album de Fotos  ****************************
+*************************************************************** */
+
+#main .list { padding: 4px 0 12px 22px; margin: 0px; position: relative; }
+#main .list h2 { text-transform: uppercase; font-size: 14px; padding: 5px 0px; margin: 0px 0px 10px 0px; border-bottom: dashed 1px #ccc; color:#cc0000; }
+#main .list ul { padding: 0px 0px 20px 0px; margin: 0px; width: 100%; float: left;} 
+#main .list li { margin: 0px; padding: 0px; list-style-type: none; display: inline;}
+#main .list li a { margin: 0px 5px 5px 0px; padding: 0px; float: left;}
+#main .list a img { background: #fff; padding: 1px; margin: 0px; border: solid 3px #191b1c;}
+#main .list a:hover img { background: #000; padding: 1px; margin: 0px; border: solid 3px #f1f1f1;}
+#main .list em { display: none;}

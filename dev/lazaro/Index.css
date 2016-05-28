@@ -1,0 +1,13 @@
+body { background-color: #000000 !important; color: #333333 !important; font-family: Verdana, Arial, Helvetica, sans-serif !important; font-size: 10px !important; margin: 10px; }
+
+a:link { color: #333333; !important; text-decoration: none ;}
+a:visited { color: #333333; !important; text-decoration: none !important; }
+a:hover { color: #cc0000; !important; text-decoration: none !important; }
+
+a img { border: 0; }
+
+img[src*="Imagens/"] 
+{ opacity: 0.50 !important; }
+
+img[src*="Imagens/"]:hover
+{ opacity: 1.00 !important; }

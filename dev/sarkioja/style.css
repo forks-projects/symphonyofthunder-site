@@ -1,0 +1,13 @@
+﻿body {
+background: #999;
+color: #000000;
+}
+
+#box {
+
+position: absolute;
+left: 50%;
+top: 50%;
+margin-left:-82px;
+margin-top: -101px;
+}

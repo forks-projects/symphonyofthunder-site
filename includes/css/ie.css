@@ -1,0 +1,92 @@
+#header {
+position : relative;
+top : -25px;
+margin : 0;
+padding : 0;
+}
+#wrap ul.links {
+list-style : none;
+margin : 10px 15px;
+padding : 0 0 0 10px;
+}
+
+#wrap ul.links2 {
+list-style : none;
+margin : 10px 15px;
+padding : 0 0 0 10px;
+position : relative;
+top:  -127px;
+left : 120px;
+}
+
+#wrap p.links2 {
+position : relative;
+top:  -127px;
+left : 120px;
+}
+
+#wrap ul.links3 {
+list-style : none;
+margin : 10px 15px;
+padding : 0 0 0 10px;
+position : relative;
+top:  -361px;
+left : 240px;
+}
+
+#wrap p.links3 {
+position : relative;
+top:  -361px;
+left : 240px;
+}
+
+#wrap .texxt-right {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 350px;
+right: -98px
+float : right;
+text-align : left;
+}
+
+#wrap .texxt-right2 {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 500px;
+right: -98px
+float : right;
+text-align : left;
+}
+
+#wrap .texxt-right3 {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 680px;
+right: -98px
+float : right;
+text-align : left;
+}
+#wrap .texxt-right4 {
+position : absolute;
+width : 230px;
+height : 80px;
+top : 880px;
+right: -98px
+float : right;
+text-align : left;
+}
+#wrap .disco-lyrics {
+position : relative;
+top : -61px;
+float : right;
+text-align : right;
+}
+#wrap .disco-lyrics3 {
+position : relative;
+top : -12px;
+float : right;
+text-align : right;
+}

@@ -1,0 +1,71 @@
+body {
+  	background: #000;
+ 	color: #999999;
+	font-size: 9px;
+	font-family: verdana;
+ 	text-align: center; 
+} 
+/*
+body {	
+	scrollbar-face-color : #000;
+ 	scrollbar-shadow-color : #000;
+ 	scrollbar-highlight-color : #000;
+ 	scrollbar-3dlight-color : #000;
+ 	scrollbar-darkshadow-color : #000;
+ 	scrollbar-track-color : #000;
+ 	scrollbar-arrow-color : #ccc;
+}
+h1, h2, h3 {
+	font-family:'Trebuchet MS', Arial, sans-serif;
+	font-weight: bold;
+}
+h1 {
+	font-size: 1.5em;	
+	padding: 4px 0 3px 10px;
+	border-bottom: 2px solid #191612;
+}
+
+h1, h2, h3, p { 
+	padding: 4px 0 3px 10px;
+	margin: 10px 15px; 
+}
+#wrap {
+   	align: center;
+   	margin: 0 auto; 
+   	text-align: left;
+   	background-color:#000;
+   	width: 300px;
+   	padding: 8px 0 3px 0;
+	border: 1px solid #252525;
+}
+
+#content-wrap {
+	clear:both;
+	padding:0;
+	width: 280px;
+
+}
+
+#main {
+	float: left;
+	width: 280px;
+	margin: 0; padding: 0;
+	background-color: inherit; 
+	}
+
+#main h1 {
+	padding: 4px 0 3px 10px;
+	text-transform: none;
+	border-bottom: 2px solid #191612;
+}
+*/
+#intro {
+	align:center;
+   	margin: 0 auto; 
+	background-color:#000;
+   	width: 618px;
+	height:400px;
+}
+#preload {
+
+}
